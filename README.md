@@ -28,4 +28,3 @@ Enrichment was further tested using partitioned heritability analyses of GWAS da
 
 Our gene prioritization is based on Multi-marker Analysis of GenoMic Annotation [MAGMA](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004219).
 We further used Functional Mapping and Annotation of Genome-Wide Association Studies [FUMA](https://fuma.ctglab.nl).
-
